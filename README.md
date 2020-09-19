@@ -11,6 +11,7 @@ something that is not random.
 
 ## Compilation process
 1 . gcc -g -Wall -fopenmp -o mc MonteCarlo.c -lm
+
 2 . ./mc Value (number of iterations in list)
 
 ## Results 
