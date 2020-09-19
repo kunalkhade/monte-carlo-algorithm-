@@ -14,4 +14,4 @@ something that is not random.
 2 . ./mc Value (number of iterations in list)
 
 ## Results 
-## Result : Iteration 10000000 Darts pi value was 3.141697 with error -0.000105 
+### Result : Iteration 10000000 Darts pi value was 3.141697 with error -0.000105 
